@@ -12,9 +12,13 @@ p{
 }
 h1{
    font-weight:bold;
-   font-size:10;
+   font-size:50;
 }
 mark{
 	font-family: 'DFKai-sb';
 	font-size:10;
+}
+img{
+	float:right;
+	
 }
