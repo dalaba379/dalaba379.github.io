@@ -7,12 +7,16 @@ body{
 p{
    font-weight:bold;
    font-size:10;
+   text-align: justify;
+   text-justify:inter-ideograph;
    
 	
 }
 h1{
    font-weight:bold;
    font-size:50;
+   text-align: justify;
+   text-justify:inter-ideograph;
 }
 mark{
 	font-family: 'DFKai-sb';
@@ -20,5 +24,6 @@ mark{
 }
 img{
 	float:right;
+	
 	
 }
